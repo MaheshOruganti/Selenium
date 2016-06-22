@@ -15,7 +15,7 @@ import java.util.List;
 public class Basket_Fruits_Calculation {
 
 	
-		
+		// this is main program
 public static void main(String[] args) throws Exception {
 		
 	String FILE_PATH= args[0];
